@@ -1,0 +1,14 @@
+
+{
+Aluno 1
+Nome: maria
+Nota: 5.5
+Frequencia: 90%
+}
+
+{
+Aluno 2
+Nome: josue
+Nota: 10.0
+Frequencia: 100%
+}
